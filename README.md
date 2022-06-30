@@ -1,6 +1,6 @@
 # Manipulando o DOM
 
-## Atividade: Light Mode/Dark Mode
+## Atividade: Light Mode/Dark Mode (Digital Innovation One)
 
 1. Crie uma estrutura básica de projeto front-end (HTML, CSS e JS)
 2. Copie o HTML e o CSS deste repositório
